@@ -5,26 +5,18 @@ class FooGriffonPlugin {
     List pluginIncludes = []
     List toolkits = []
     List platforms = []
-    String license = '<UNKNOWN>'
+    String license = 'secret'
     String documentation = ''
     String source = ''
 
     List authors = [
         [
             name: 'Andres Almiray',
-            email: 'your@email.com'
+            email: 'your@foo.com'
         ]
     ]
-    String title = 'Plugin summary/headline'
+    String title = 'Foo Bar'
     String description = '''
-Brief description of Foo.
-
-Usage
-----
-Lorem ipsum
-
-Configuration
--------------
-Lorem ipsum
+Foo
 '''
 }
