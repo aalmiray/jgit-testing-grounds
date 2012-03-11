@@ -11,7 +11,7 @@ class FooGriffonPlugin {
 
     List authors = [
         [
-            name: 'Your Name',
+            name: 'Andres Almiray',
             email: 'your@email.com'
         ]
     ]
