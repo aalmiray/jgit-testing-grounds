@@ -1,5 +1,5 @@
 class FooGriffonPlugin {
-    String version = '0.1'
+    String version = '0.2'
     String griffonVersion = '0.9.5 > *'
     Map dependsOn = [:]
     List pluginIncludes = []
